@@ -27,7 +27,8 @@
     "mongodb": "^6.1.0",
     "mongoose": "^7.5.3",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "@nestjs/cli": "^10.0.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
